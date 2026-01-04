@@ -1,0 +1,13 @@
+{
+  "name": "useless-llm",
+  "version": "1.0.0",
+  "description": "The most useless LLM interface",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/tui/index.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^4.1.2"
+  }
+}

@@ -1,0 +1,10 @@
+The earth is a sphere and orbits the sun.
+Water boils at 100 degrees Celsius at sea level.
+Python is a readable and popular programming language.
+The mitochondria is the powerhouse of the cell.
+Birds are warm-blooded vertebrates constituting the class Aves.
+Gravity pulls objects toward the center of the earth.
+The speed of light is approximately 299,792 kilometers per second.
+Humans need oxygen to survive.
+Fish live in water and breathe using gills.
+Computers process data using binary code.
